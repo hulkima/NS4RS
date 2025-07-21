@@ -21,9 +21,103 @@ Category
 ----
 ### Static Negative Sampling
 #### Uniform Static Negative Sampling
--	BPR: Bayesian Personalized Ranking from Implicit Feedback. `UAI(2009)` **[[PDF](https://arxiv.org/pdf/1205.2618.pdf)]**
+-	BPR: Bayesian Personalized Ranking from Implicit Feedback. `UAI (2009)` **[[PDF](https://arxiv.org/pdf/1205.2618.pdf)]**
+- ReCODE: Modeling Repeat Consumption with Neural ODE. ‘SIGIR (2024)’ **[[pdf](https://dl.acm.org/doi/abs/10.1145/3626772.3657936)]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+
+#### Predefined Static Negative Sampling
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+
+
+
+#### Popularity-based Static Negative Sampling
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+
+
+
+#### Non-sampling Static Negative Sampling
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+
+
 
 ### Dynamic Negative Sampling
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+-  ‘ ()’ **[[pdf]()]
+
 
 ### Adversarial Negative Generation
 
