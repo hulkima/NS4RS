@@ -20,6 +20,7 @@ We propose a overall ontology of Negative Sampling in Recommendation, which has 
 Category
 ----
 ### Static Negative Sampling
+## Uniform Static Negative Sampling
 -	BPR: Bayesian Personalized Ranking from Implicit Feedback. `UAI(2009)` **[[PDF](https://arxiv.org/pdf/1205.2618.pdf)]**
 
 ### Dynamic Negative Sampling
