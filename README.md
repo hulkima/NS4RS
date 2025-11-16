@@ -130,51 +130,48 @@ Scenarios
 
 
 ### Multi-modal Recommendation
-- Self-supervised learning for multimedia recommendation. `MM (2022)` **[[PDF]()]**
-- Prompt-based and weak-modality enhanced multimodal recommendation. `Information Fusion (2024)` **[[PDF]()]**
-- Personalized multimedia item and key frame recommendation. `IJCAI (2019)` **[[PDF]()]**
-- Multi-task feature learning for knowledge graph enhanced recommendation. `WWW (2019)` **[[PDF]()]**
+- Self-supervised learning for multimedia recommendation. `TMM (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)]**
+- Prompt-based and weak-modality enhanced multimodal recommendation. `Information Fusion (2024)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003056)]**
+- Personalized multimedia item and key frame recommendation. `IJCAI (2019)` **[[PDF](https://arxiv.org/abs/1906.00246)]**
+- Multi-task feature learning for knowledge graph enhanced recommendation. `WWW (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313411)]**
   
   
 ### Multi-behavior Recommendation
-- Deep feedback network for recommendation. `IJCAI (2021)` **[[PDF]()]**
-- Negative can be positive: Signed graph neural networks for recommendation. `IP&M (2023)` **[[PDF]()]**
-- Interpretable User Retention Modeling in Recommendation. `RecSys (2023)` **[[PDF]()]**
-- Multi-Behavior Graph Neural Networks for Recommender System. `TNNLS (2022)` **[[PDF]()]**
-- Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce. `CIKM (2021)` **[[PDF]()]**
-- SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback. `CIKM (2024)` **[[PDF]()]**
-- Atrank: An attention-based user behavior modeling framework for recommendation. `AAAI (2018)` **[[PDF]()]**
-- Hyper meta-path contrastive learning for multi-behavior recommendation. `ICDM (2021)` **[[PDF]()]**
-- DRN: A deep reinforcement learning framework for news recommendation. `WWW (2018)` **[[PDF]()]**
-- Self-supervised Graph Neural Networks for Multi-behavior Recommendation. `IJCAI (2022)` **[[PDF]()]**
+- Deep feedback network for recommendation. `IJCAI (2021)` **[[PDF](https://www.ijcai.org/Proceedings/2020/0349.pdf)]**
+- Negative can be positive: Signed graph neural networks for recommendation. `IP&M (2023)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306457323001401)]**
+- Interpretable User Retention Modeling in Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608818)]**
+- Multi-Behavior Graph Neural Networks for Recommender System. `TNNLS (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9925059/)]**
+- Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce. `CIKM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481953)]**
+- SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback. `CIKM (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)]**
+- Atrank: An attention-based user behavior modeling framework for recommendation. `AAAI (2018)` **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11618)]**
+- Hyper meta-path contrastive learning for multi-behavior recommendation. `ICDM (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9678992)]**
+- DRN: A deep reinforcement learning framework for news recommendation. `WWW (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3178876.3185994)]**
+- Self-supervised Graph Neural Networks for Multi-behavior Recommendation. `IJCAI (2022)` **[[PDF](http://www.shichuan.org/doc/134.pdf)]**
 
   
 ### Cross-domain Recommendation
-- Triple sequence learning for cross-domain recommendation. `TOIS (2024)` **[[PDF]()]**
-- DCDIR: A deep cross-domain recommendation system for cold start users in insurance domain. `SIGIR (2020)` **[[PDF]()]**
-- Cross domain recommendation via bi-directional transfer graph collaborative filtering networks. `CIKM (2020)` **[[PDF]()]**
-- Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation. `Information Sciences (2021)` **[[PDF]()]**
-- Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF]()]**
-- ` ()` **[[PDF]()]**
-- ` ()` **[[PDF]()]**
-- ` ()` **[[PDF]()]**
+- Triple sequence learning for cross-domain recommendation. `TOIS (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3638351)]**
+- DCDIR: A deep cross-domain recommendation system for cold start users in insurance domain. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401193)]**
+- Cross domain recommendation via bi-directional transfer graph collaborative filtering networks. `CIKM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)]**
+- Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation. `Information Sciences (2021)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0020025521001432)]**
+- Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)]**
   
 
 ### CL-enhanced Recommendation
-- Dual contrastive learning for unsupervised image-to-image translation. `CVPR (2021)` **[[PDF]()]**
-- Self-Guided Contrastive Learning for BERT Sentence Representations. `arixv (2021)` **[[PDF]()]**
-- Simple unsupervised graph representation learning. `AAAI (2022)` **[[PDF]()]**
-- A review-aware graph contrastive learning framework for recommendation. `SIGIR (2022)` **[[PDF]()]**
-- ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. `CIKM (2022)` **[[PDF]()]**
-- S3-rec: Self-supervised learning for sequential recommendation with mutual information maximization. `CIKM (2020)` **[[PDF]()]**
-- Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning. `KDD (2024)` **[[PDF]()]**
-- Contrastive Learning with Bidirectional Transformers for Sequential Recommendation. `CIKM (2022)` **[[PDF]()]**
-- Causerec: Counterfactual user sequence synthesis for sequential recommendation. `SIGIR (2021)` **[[PDF]()]**
-- Double-scale self-supervised hypergraph learning for group recommendation. `CIKM (2021)` **[[PDF]()]**
-- Self-supervised graph learning for recommendation. `SIGIR (2021)` **[[PDF]()]**
-- CrossCBR: cross-view contrastive learning for bundle recommendation. `KDD (2022)` **[[PDF]()]**
-- Temporal Contrastive Pre-Training for Sequential Recommendation. `CIKM (2022)` **[[PDF]()]**
-- Contrastive learning for cold-start recommendation. `MM (2021)` **[[PDF]()]**
+- Dual contrastive learning for unsupervised image-to-image translation. `CVPR (2021)` **[[PDF](http://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Han_Dual_Contrastive_Learning_for_Unsupervised_Image-to-Image_Translation_CVPRW_2021_paper.html)]**
+- Self-Guided Contrastive Learning for BERT Sentence Representations. `arixv (2021)` **[[PDF](https://arxiv.org/abs/2106.07345)]**
+- Simple unsupervised graph representation learning. `AAAI (2022)` **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20748)]**
+- A review-aware graph contrastive learning framework for recommendation. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531927)]**
+- ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557268)]**
+- S3-rec: Self-supervised learning for sequential recommendation with mutual information maximization. `CIKM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3411954)]**
+- Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning. `KDD (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671661)]**
+- Contrastive Learning with Bidirectional Transformers for Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557266)]**
+- Causerec: Counterfactual user sequence synthesis for sequential recommendation. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462908)]**
+- Double-scale self-supervised hypergraph learning for group recommendation. `CIKM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482426)]**
+- Self-supervised graph learning for recommendation. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462862)]**
+- CrossCBR: cross-view contrastive learning for bundle recommendation. `KDD (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539229)]**
+- Temporal Contrastive Pre-Training for Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557468)]**
+- Contrastive learning for cold-start recommendation. `MM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475665)]**
 
 
 
