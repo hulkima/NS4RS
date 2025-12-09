@@ -2,7 +2,10 @@
 This repository collects 237 papers related to negative sampling methods in Recommendation Systems (**RS**). Detailed information can be found in our [survey paper](https://arxiv.org/pdf/1205.2618.pdf).
 We propose a overall ontology of Negative Sampling in Recommendation, which has been divided into five categories: **Static Negative Sampling**, **Dynamic Negative Sampling**, **Adversarial Negative Generation**, **Importance Re-weighting** and **Knowledge-enhanced Negative Sampling**.
 
+
+
 - [Ontology](#Ontology)
+![motivation](./Images/overview.jpg)
   - [Static Negative Sampling](#static-negative-sampling)
   - [Dynamic Negative Sampling](#hard-negative-sampling)
   - [Adversarial Negative Generation](#adversarial-sampling)
