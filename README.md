@@ -2,10 +2,9 @@
 This repository collects 237 papers related to negative sampling methods in Recommendation Systems (**RS**). Detailed information can be found in our [survey paper](https://arxiv.org/pdf/1205.2618.pdf).
 We propose a overall ontology of Negative Sampling in Recommendation, which has been divided into five categories: **Static Negative Sampling**, **Dynamic Negative Sampling**, **Adversarial Negative Generation**, **Importance Re-weighting** and **Knowledge-enhanced Negative Sampling**.
 
-
+![toy_example](./Images/toy_example.jpg)
 
 - [Ontology](#Ontology)
-![motivation](./Images/overview.jpg)
   - [Static Negative Sampling](#static-negative-sampling)
   - [Dynamic Negative Sampling](#hard-negative-sampling)
   - [Adversarial Negative Generation](#adversarial-sampling)
@@ -20,7 +19,9 @@ We propose a overall ontology of Negative Sampling in Recommendation, which has 
   - [Cross-domain Recommendation](#additional-data-enhanced-sampling)
   - [CL-enhanced Recommendation](#additional-data-enhanced-sampling)
 
-Category
+Ontology
+
+![overview](./Images/overview.jpg)
 ----
 ### Static Negative Sampling
 #### Uniform Static Negative Sampling
@@ -111,6 +112,9 @@ Category
 Scenarios
 ----
 ### Collaborative-guided Recommendation
+
+![cf](./Images/cf.jpg)
+
 - BPR: Bayesian personalized ranking from implicit feedback. `UAI (2009)` **[[PDF](https://arxiv.org/abs/1205.2618)]**
 - Neural collaborative filtering. `WWW (2017)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3038912.3052569)]**
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
@@ -124,6 +128,9 @@ Scenarios
 - Enhanced graph learning for collaborative filtering via mutual information maximization. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)]**
 
 ### Sequential Recommendation
+
+![sr](./Images/sr.jpg)
+
 - A case study on sampling strategies for evaluating neural sequential item recommendation models. `RecSys (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3460231.3475943)]**
 - Sequential recommendation with multiple contrast signals. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3522673)]**
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
@@ -133,6 +140,9 @@ Scenarios
 
 
 ### Multi-modal Recommendation
+
+![mmr](./Images/mmr.jpg)
+
 - Self-supervised learning for multimedia recommendation. `TMM (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)]**
 - Prompt-based and weak-modality enhanced multimodal recommendation. `Information Fusion (2024)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003056)]**
 - Personalized multimedia item and key frame recommendation. `IJCAI (2019)` **[[PDF](https://arxiv.org/abs/1906.00246)]**
@@ -140,6 +150,9 @@ Scenarios
   
   
 ### Multi-behavior Recommendation
+
+![mbr](./Images/mbr.jpg)
+
 - Deep feedback network for recommendation. `IJCAI (2021)` **[[PDF](https://www.ijcai.org/Proceedings/2020/0349.pdf)]**
 - Negative can be positive: Signed graph neural networks for recommendation. `IP&M (2023)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306457323001401)]**
 - Interpretable User Retention Modeling in Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608818)]**
@@ -153,6 +166,9 @@ Scenarios
 
   
 ### Cross-domain Recommendation
+
+![cdr](./Images/cdr.jpg)
+
 - Triple sequence learning for cross-domain recommendation. `TOIS (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3638351)]**
 - DCDIR: A deep cross-domain recommendation system for cold start users in insurance domain. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401193)]**
 - Cross domain recommendation via bi-directional transfer graph collaborative filtering networks. `CIKM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)]**
