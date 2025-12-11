@@ -90,6 +90,36 @@ Ontology
 ### Dynamic Negative Sampling
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
 
+#### Universal DNS
+- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
+- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
+- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
+- Leveraging meta-path based context for top-n recommendation with a neural co-attention model. `KDD (2018)` **[[PDF]()]**
+- ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering. `CIKM (2022)` **[[PDF]()]**
+- Fashion recommendation with multi-relational representation learning. `KDD (2020)` **[[PDF]()]**
+- Graph convolutional neural networks for web-scale recommender systems. `KDD (2018)` **[[PDF]()]**
+- On the theories behind hard negative sampling for recommendation. `WWW (2023)` **[[PDF]()]**
+- Collaborative distillation for top-N recommendation. `ICDM (2019)` **[[PDF]()]**
+- DE-RRD: A knowledge distillation framework for recommender system. `CIKM (2019)` **[[PDF]()]**
+- Plug-in Diffusion Model for Sequential Recommendation. `AAAI (2024)` **[[PDF]()]**
+- Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF]()]**
+
+#### User-similarity DNS
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+- None ` ()` **[[PDF]()]**
+
 
 ### Adversarial Negative Generation
 - None ` ()` **[[PDF]()]**
