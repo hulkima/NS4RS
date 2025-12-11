@@ -48,7 +48,7 @@ Ontology
 - Learning tree-based deep model for recommender systems. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219826)]**
 - Effective and Efficient Training for Sequential Recommendation using Recency Sampling. `RecSys (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604436)]**
 !-->
-| Index | Venue         | Year | Title                                                                                                                    | PDF link                                                       |
+| Index | Venue         | Year | Title                                                                                                                    | PDF                                                       |
 | :-----: | :-------------: | :----: | ------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------: |
 | 1     | AAAI          | 2018 | Atrank: An attention-based user behavior modeling framework for recommendation.                                          | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11618)  |
 | 2     | SIGIR         | 2024 | ReCODE: Modeling Repeat Consumption with Neural ODE.                                                                     | [PDF](https://dl.acm.org/doi/abs/10.1145/3626772.3657936)      |
