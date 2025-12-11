@@ -92,8 +92,6 @@ Ontology
 
 #### Universal DNS
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
-- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
-- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
 - Leveraging meta-path based context for top-n recommendation with a neural co-attention model. `KDD (2018)` **[[PDF]()]**
 - ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering. `CIKM (2022)` **[[PDF]()]**
 - Fashion recommendation with multi-relational representation learning. `KDD (2020)` **[[PDF]()]**
@@ -105,24 +103,57 @@ Ontology
 - Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF]()]**
 
 #### User-similarity DNS
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
-- None ` ()` **[[PDF]()]**
+- Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF]()]**
+- SamWalker++: recommendation with informative sampling strategy. `TKDE (2021)` **[[PDF]()]**
+- Triplet Losses-based Matrix Factorization for Robust Recommendations. `? (2022)` **[[PDF]()]**
+- SamWalker: Social Recommendation with Informative Sampling Strategy. `WWW (2019)` **[[PDF]()]**
+
+
+#### Knowledge-aware DNS
+- Geography-aware sequential location recommendation. `KDD (2020)` **[[PDF]()]**
+- Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF]()]**
+- Context-aware image tweet modelling and recommendation. `MM (2016)` **[[PDF]()]**
+- Leveraging review properties for effective recommendation. `WWW (2021)` **[[PDF]()]**
+
+#### Distribution-based DNS
+- A Gain-Tuning Dynamic Negative Sampler for Recommendation. `WWW (2022)` **[[PDF]()]**
+- Simplify and robustify negative sampling for implicit collaborative filtering. `NIPS (2020)` **[[PDF]()]**
+- Disentangled Negative Sampling for Collaborative Filtering. `WSDM (2023)` **[[PDF]()]**
+
+#### Interpolation DNS
+- Mixgcf: An improved training method for graph neural network-based recommender systems. `KDD (2021)` **[[PDF]()]**
+- Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems. `ARXIV (2022)` **[[PDF]()]**
+- Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF]()]**
+
+
+#### Mixed DNS
+- On sampling strategies for neural network-based collaborative filtering. `KDD (2017)` **[[PDF]()]**
+- Estimation-action-reflection: Towards deep interaction between conversational and recommender systems. `WSDM (2020)` **[[PDF]()]**
+- Recurrent neural networks with top-k gains for session-based recommendations. `CIKM (2018)` **[[PDF]()]**
+- Session-based recommendations with recurrent neural networks. `ARXIV (2015)` **[[PDF]()]**
+- Embedding-based retrieval in facebook search. `KDD (2020)` **[[PDF]()]**
+- Mixed negative sampling for learning two-tower neural networks in recommendations. `WWW (2020)` **[[PDF]()]**
+- Adapting user preference to online feedback in multi-round conversational recommendation. `WSDM (2021)` **[[PDF]()]**
 
 
 ### Adversarial Negative Generation
-- None ` ()` **[[PDF]()]**
+
+#### Generative ANG
+- Generative Adversarial Networks. `NIPS (2014)` **[[PDF]()]**
+- Neural memory streaming recommender networks with adversarial training. `KDD (2018)` **[[PDF]()]**
+- DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation. `ICDM (2O19)` **[[PDF]()]**
+- LARA: Attribute-to-feature adversarial learning for new-item recommendation. `WSDM (2020)` **[[PDF]()]**
+- Reinforced Negative Sampling for Recommendation with Exposure Data. `IJCAI (2019)` **[[PDF]()]**
+- Adversarial feature translation for multi-domain recommendation. `KDD (2021)` **[[PDF]()]**
+- A peep into the future: Adversarial future encoding in recommendation. `WSDM (2022)` **[[PDF]()]**
+- ELECRec: Training Sequential Recommenders as Discriminators. `SIGIR (2022)` **[[PDF]()]**
+- PURE: Positive-unlabeled recommendation with generative adversarial network. `KDD (2021)` **[[PDF]()]**
+
+
+#### Sampled ANG
+- Irgan: A minimax game for unifying generative and discriminative information retrieval models. `SIGIR (2017)` **[[PDF]()]**
+- Graphgan: Graph representation learning with generative adversarial nets. `AAAI (2018)` **[[PDF]()]**
+  
 
 ### Importance Re-weighting
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
@@ -135,8 +166,46 @@ Ontology
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
 
 
+#### Attention-based IRW
+- Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF]()]**
+- User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF]()]**
+- Modeling User Attention in Music Recommendation. `ICDE (2024)` **[[PDF]()]**
+- Cross-domain Recommendation with Behavioral Importance Perception. `WWW (2023)` **[[PDF]()]**
+- Learning explicit user interest boundary for recommendation. `WWW (2022)` **[[PDF]()]**
+- Recommendations with negative feedback via pairwise deep reinforcement learning. `KDD (2018)` **[[PDF]()]**
+- Personalized ranking with importance sampling. `WWW (2020)` **[[PDF]()]**
+- Top-k off-policy correction for a REINFORCE recommender system. `WSDM (2019)` **[[PDF]()]**
+- Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF]()]**
+
+
+#### Knowledge-aware IRW
+- Dgrec: Graph neural network for recommendation with diversified embedding generation. `WSDM (2023)` **[[PDF]()]**
+- Premere: Meta-reweighting via self-ensembling for point-of-interest recommendation. `AAAI (2021)` **[[PDF]()]**
+- User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF]()]**
+
+
+#### Debiased IRW
+- SAR-Net: A scenario-aware ranking network for personalized fair recommendation in hundreds of travel scenarios. `CIKM (2021)` **[[PDF]()]**
+- Influence function for unbiased recommendation. `SIGIR (2020)` **[[PDF]()]**
+- Headache to Overstock? Promoting Long-tail Items through Debiased Product Bundling. `ARXIV (2024)` **[[PDF]()]**
+
+
 ### Knowledge-enhanced Negative Sampling
-- None ` ()` **[[PDF]()]**
+
+
+#### General KNS
+- Calibrated recommendations. `RecSys (2018)` **[[PDF]()]**
+- Mining affective text to improve social media item recommendation. `Processing Management (2015)` **[[PDF]()]**
+- Intentgc: a scalable graph convolution framework fusing heterogeneous information for recommendation. `KDD (2019)` **[[PDF]()]**
+- Uniform Random Sampling Not Recommended. `WWW (2018)` **[[PDF]()]**
+
+
+#### KG-based KNS
+- Reinforced anchor knowledge graph generation for news recommendation reasoning. `KDD (2021)` **[[PDF]()]**
+- Paper recommendation based on heterogeneous network embedding. `Knowledge-Based Systems (2020)` **[[PDF]()]**
+- Reinforced negative sampling over knowledge graph for recommendation. `WWW (2020)` **[[PDF]()]**
+- Knowledge-enhanced Black-box Attacks for Recommendations. `KDD (2022)` **[[PDF]()]**
+
   
 
 Scenarios
