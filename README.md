@@ -49,6 +49,32 @@ Ontology
 - Learning tree-based deep model for recommender systems. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219826)]**
 - Effective and Efficient Training for Sequential Recommendation using Recency Sampling. `RecSys (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604436)]**
 
+| Index | Venue         | Year | Title                                                                                                                    | PDF link                                                       |
+| ----- | ------------- | ---- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| 1     | AAAI          | 2018 | Atrank: An attention-based user behavior modeling framework for recommendation.                                          | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11618)  |
+| 2     | SIGIR         | 2024 | ReCODE: Modeling Repeat Consumption with Neural ODE.                                                                     | [PDF](https://dl.acm.org/doi/abs/10.1145/3626772.3657936)      |
+| 3     | UAI           | 2009 | BPR: Bayesian Personalized Ranking from Implicit Feedback.                                                               | [PDF](https://arxiv.org/pdf/1205.2618.pdf)                     |
+| 4     | WWW - check   | 2017 | Neural collaborative filtering.                                                                                          | [PDF](https://dl.acm.org/doi/10.1145/3038912.3052569)          |
+| 5     | WSDM          | 2023 | Simplifying Graph-based Collaborative Filtering for Recommendation.                                                      | [PDF](https://dl.acm.org/doi/10.1145/3539597.3570451)          |
+| 6     | TNNLS         | 2023 | GCRec: Graph-Augmented Capsule Network for Next-Item Recommendation.                                                     | [PDF](https://ieeexplore.ieee.org/abstract/document/9762364)   |
+| 7     | KDD           | 2022 | Multi-behavior hypergraph-enhanced transformer for sequential recommendation.                                            | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539342)      |
+| 8     | WWW - check   | 2024 | Knowledge Enhanced Multi-intent Transformer Network for Recommendation.                                                  | [PDF](https://dl.acm.org/doi/abs/10.1145/3589335.3648296)      |
+| 9     | SIGIR         | 2023 | Generative-contrastive graph learning for recommendation.                                                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591691)      |
+| 10    | KDD           | 2024 | Graph bottlenecked social recommendation.                                                                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671807)      |
+| 11    | SMC - check   | 2023 | Graph-Augmented Co-Attention Model for Socio-Sequential Recommendation.                                                  | [PDF](https://ieeexplore.ieee.org/abstract/document/10049198)  |
+| 12    | TII - check   | 2023 | Graph-Augmented Social Translation Model for Next-Item Recommendation.                                                   | [PDF](https://ieeexplore.ieee.org/abstract/document/10038553/) |
+| 13    | TOIS          | 2023 | Sequential recommendation with multiple contrast signals.                                                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3522673)              |
+| 14    | arxiv - check | 2024 | Enhanced generative recommendation via content and collaboration integration.                                            | [PDF](https://openreview.net/forum?id=donBik41p8)              |
+| 15    | CIKM          | 2022 | Contrastive Cross-Domain Sequential Recommendation.                                                                      | [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)      |
+| 16    | TKDE          | 2024 | Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.               | [PDF](https://ieeexplore.ieee.org/abstract/document/10779184/) |
+| 17    | arxiv - check | 2025 | Align-for-Fusion: Harmonizing Triple Preferences via Dual-oriented Diffusion for Cross-domain Sequential Recommendation. | [PDF](https://arxiv.org/abs/2508.05074)                        |
+| 18    | KDD           | 2014 | GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation.                        | [PDF](https://dl.acm.org/doi/abs/10.1145/2623330.2623638)      |
+| 19    | ACL           | 2019 | Neural news recommendation with topic-aware news representation.                                                         | [PDF](https://aclanthology.org/P19-1110/)                      |
+| 20    | SIGIR         | 2019 | Adversarial mahalanobis distance-based attentive song recommender for automatic playlist continuation.                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3331184.3331234)      |
+| 21    | ICSE          | 2022 | CLEAR: Contrastive Learning for API Recommendation.                                                                      | [PDF](https://dl.acm.org/doi/abs/10.1145/3510003.3510159)      |
+| 22    | KDD           | 2018 | Learning tree-based deep model for recommender systems.                                                                  | [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219826)      |
+| 23    | RecSys        | 2022 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling.                                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3604436)              |
+
 
 #### Predefined Static Negative Sampling
 - Efficient latent link recommendation in signed networks. `KDD (2015)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2783258.2783358)]**
