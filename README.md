@@ -49,7 +49,7 @@ Ontology
 - Effective and Efficient Training for Sequential Recommendation using Recency Sampling. `RecSys (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604436)]**
 !-->
 | Index |  Venue | Year | Title                                                                                                                    |                              Link                              |
-| :---: | :----: | :--: | ------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------: |
+| :--: | :---: | :--: | ------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------: |
 |   1   |   UAI  | 2009 | BPR: Bayesian Personalized Ranking from Implicit Feedback.                                                               |           [PDF](https://arxiv.org/pdf/1205.2618.pdf)           |
 |   2   |   KDD  | 2014 | GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation.                        |    [PDF](https://dl.acm.org/doi/abs/10.1145/2623330.2623638)   |
 |   3   |   WWW  | 2017 | Neural collaborative filtering.                                                                                          |      [PDF](https://dl.acm.org/doi/10.1145/3038912.3052569)     |
