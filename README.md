@@ -36,6 +36,16 @@ Ontology
 - Knowledge Enhanced Multi-intent Transformer Network for Recommendation. `WWW (2024) - check` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3589335.3648296)]** 
 - Generative-contrastive graph learning for recommendation. `SIGIR (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591691)]**
 - Graph bottlenecked social recommendation. `KDD (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671807)]**
+- Graph-Augmented Co-Attention Model for Socio-Sequential Recommendation. `TSMS (2023)` **[[PDF]()]**
+- Graph-Augmented Social Translation Model for Next-Item Recommendation. `TII (2023)` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
+- None. `?` **[[PDF]()]**
 - Sequential recommendation with multiple contrast signals. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3522673)]**
 - Enhanced generative recommendation via content and collaboration integration. `arxiv (2024) - check` **[[PDF](https://openreview.net/forum?id=donBik41p8)]**
 - Contrastive Cross-Domain Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)]**
