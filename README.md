@@ -92,6 +92,20 @@ Ontology
 - Uncovering ChatGPT\'s Capabilities in Recommender Systems. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3610646)]**
 - Ctrl: Connect collaborative and language model for ctr prediction. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3713080)]**
 
+| Index | Venue | Year | Title | Link |
+| :--: | :---: | :--: | :--- | :--: |
+| 1 | KDD | 2015 | Efficient latent link recommendation in signed networks. | [PDF](https://dl.acm.org/doi/abs/10.1145/2783258.2783358) |
+| 2 | WWW | 2018 | DRN: A deep reinforcement learning framework for news recommendation. | [PDF](https://dl.acm.org/doi/abs/10.1145/3178876.3185994) |
+| 3 | CIKM | 2018 | Adaptive implicit friends identification over heterogeneous network for social recommendation. | [PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271725) |
+| 4 | WSDM | 2020 | Sequential recommendation with dual side neighbor-based collaborative relation modeling. | [PDF](https://dl.acm.org/doi/abs/10.1145/3336191.3371842) |
+| 5 | IJCNN | 2021 | Group-based deep transfer learning with mixed gate control for cross-domain recommendation. | [PDF](https://ieeexplore.ieee.org/abstract/document/9533861/) |
+| 6 | RecSys | 2023 | Uncovering ChatGPT's Capabilities in Recommender Systems. | [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3610646) |
+| 7 | RecSys | 2023 | Ctrl: Connect collaborative and language model for ctr prediction. | [PDF](https://dl.acm.org/doi/abs/10.1145/3713080) |
+| 8 | WWW | 2024 | On Practical Diversified Recommendation with Controllable Category Diversity Framework. | [PDF](https://dl.acm.org/doi/abs/10.1145/3589335.3648323) |
+| 9 | WWW | 2024 | Rella: Retrieval-enhanced large language models for lifelong sequential behavior comprehension in recommendation. | [PDF](https://dl.acm.org/doi/abs/10.1145/3589334.3645467) |
+| 10 | RecSys | 2024 | Towards open-world recommendation with knowledge augmentation from large language models. | [PDF](https://dl.acm.org/doi/abs/10.1145/3640457.3688104) |
+
+
 
 #### Popularity-based Static Negative Sampling
 - Personalized ranking for non-uniformly sampled items. `KDD Cup/PLMR - check (2012)` **[[PDF](http://proceedings.mlr.press/v18/gantner12a.html)]**
