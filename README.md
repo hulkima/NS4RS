@@ -470,7 +470,6 @@ Scenarios
 - Reinforced Negative Sampling for Recommendation with Exposure Data. `IJCAI (2019)` **[[PDF](http://fi.ee.tsinghua.edu.cn/public/publications/1bef819c-92c5-11eb-96bc-0242ac120003.pdf)]**
 - Personalized ranking with importance sampling. `WWW (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380187)]**
 - Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)]**
--->
 
 | Index | Venue | Year | Title                                                                                  |                                                    Link                                                     |
 | :---: | :---: | :--: | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
@@ -481,7 +480,7 @@ Scenarios
 |   5   |  WWW  | 2023 | On the theories behind hard negative sampling for recommendation.                      |                         [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583223)                           |
 |   6   | RecSys| 2023 | Exploring False Hard Negative Sample in Cross-Domain Recommendation.                   |                         [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)                           |
 |   7   | TOIS  | 2024 | Causal inference in recommender systems: A survey and future directions.               |                               [PDF](https://dl.acm.org/doi/abs/10.1145/3639048)                             |
-
+-->
   
 #### Collaborative-guided Recommendation
 
@@ -600,6 +599,8 @@ Scenarios
 
   
 ### Cross-domain Recommendation
+
+![cdr](./Images/cdr.jpg)
 <!--
 ![cdr](./Images/cdr.jpg)
 - Contrastive Cross-Domain Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)]**
