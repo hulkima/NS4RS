@@ -78,6 +78,7 @@ Ontology
 
 
 #### Predefined Static Negative Sampling
+<!--
 - Efficient latent link recommendation in signed networks. `KDD (2015)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2783258.2783358)]**
 - Adaptive implicit friends identification over heterogeneous network for social recommendation. `CIKM (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271725)]**
 - Group-based deep transfer learning with mixed gate control for cross-domain recommendation. `IJCNN (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9533861/)]**
@@ -91,6 +92,7 @@ Ontology
 - Towards open-world recommendation with knowledge augmentation from large language models. `RecSys (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3640457.3688104)]**
 - Uncovering ChatGPT\'s Capabilities in Recommender Systems. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3610646)]**
 - Ctrl: Connect collaborative and language model for ctr prediction. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3713080)]**
+!-->
 
 | Index | Venue | Year | Title | Link |
 | :--: | :---: | :--: | :--- | :--: |
@@ -108,6 +110,7 @@ Ontology
 
 
 #### Popularity-based Static Negative Sampling
+<!--
 - Personalized ranking for non-uniformly sampled items. `KDD Cup/PLMR - check (2012)` **[[PDF](http://proceedings.mlr.press/v18/gantner12a.html)]**
 - Learning recommender systems with implicit feedback via soft target enhancement. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462863)]**
 - Point-of-interest recommendation: Exploiting self-attentive autoencoders with neighbor-aware influence. `CIKM (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271733)]**
@@ -119,20 +122,46 @@ Ontology
 - Hyperbolic graph learning for social recommendation. `TKDE (2023)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/10361607/)]**
 - Effective and Efficient Training for Sequential Recommendation using Recency Sampling. `RecSys (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604436)]**
 - Distributed Representations of Words and Phrases and their Compositionality. `NeurIPS (2013)` **[[PDF](https://proceedings.neurips.cc/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)]**
+-->
+
+| Index |  Venue  | Year | Title                                                                                                    |                                                    Link                                                     |
+| :---: | :-----: | :--: | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
+|   1   | KDD Cup | 2012 | Personalized ranking for non-uniformly sampled items.                                                    |                        [PDF](http://proceedings.mlr.press/v18/gantner12a.html)                          |
+|   2   | NeurIPS | 2013 | Distributed Representations of Words and Phrases and their Compositionality.                             | [PDF](https://proceedings.neurips.cc/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)        |
+|   3   |  WSDM   | 2014 | Improving pairwise learning for item recommendation from implicit feedback.                              |                        [PDF](https://dl.acm.org/doi/abs/10.1145/2556195.2556248)                            |
+|   4   |  SIGIR  | 2016 | Fast matrix factorization for online recommendation with implicit feedback.                              |                        [PDF](https://dl.acm.org/doi/abs/10.1145/2911451.2911489)                            |
+|   5   |   KDD   | 2018 | Learning from history and present: Next-item recommendation via discriminatively exploiting user behaviors.|                        [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3220014)                            |
+|   6   |  CIKM   | 2018 | Point-of-interest recommendation: Exploiting self-attentive autoencoders with neighbor-aware influence.  |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271733)                            |
+|   7   |   WWW   | 2019 | Multi-task feature learning for knowledge graph enhanced recommendation.                                 |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313411)                            |
+|   8   |  WSDM   | 2021 | Alleviating cold-start problems in recommendation through pseudo-labelling over knowledge graph.         |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441773)                            |
+|   9   |  SIGIR  | 2021 | Learning recommender systems with implicit feedback via soft target enhancement.                         |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462863)                            |
+|  10   | RecSys  | 2022 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling.                   |                           [PDF](https://dl.acm.org/doi/abs/10.1145/3604436)                                 |
+|  11   |  TKDE   | 2023 | Hyperbolic graph learning for social recommendation.                                                     |                        [PDF](https://ieeexplore.ieee.org/abstract/document/10361607/)                       |
 
 
 #### Non-sampling Static Negative Sampling
+<!--
 - Efficient heterogeneous collaborative filtering without negative sampling for recommendation. `AAAI (2020)` **[[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5329)]**
 - Efficient neural matrix factorization without sampling for recommendation. `TOIS (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3373807)]**
 - An Efficient Adaptive Transfer Neural Network for Social-Aware Recommendation. `SIGIR (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3331184.3331192)]**
 - Efficient non-sampling factorization machines for optimal context-aware recommendation. `WWW (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380303)]**
 - Efficient non-sampling knowledge graph embedding. `WWW (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)]**
+-->
+
+| Index | Venue | Year | Title                                                                                       |                               Link                                |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------------ | :---------------------------------------------------------------: |
+|   1   | SIGIR | 2019 | An Efficient Adaptive Transfer Neural Network for Social-Aware Recommendation.              |   [PDF](https://dl.acm.org/doi/abs/10.1145/3331184.3331192)       |
+|   2   | AAAI  | 2020 | Efficient heterogeneous collaborative filtering without negative sampling for recommendation.|      [PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5329) |
+|   3   | TOIS  | 2020 | Efficient neural matrix factorization without sampling for recommendation.                  |        [PDF](https://dl.acm.org/doi/abs/10.1145/3373807)          |
+|   4   |  WWW  | 2020 | Efficient non-sampling factorization machines for optimal context-aware recommendation.     |   [PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380303)       |
+|   5   |  WWW  | 2021 | Efficient non-sampling knowledge graph embedding.                                           |   [PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)       |
 
 
 ### Dynamic Negative Sampling
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
 
-#### Universal Dynamic Negative Sampling
+#### Universal Dynamic Negative Samplin
+<!--
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
 - Understanding negative sampling in graph representation learning. `KDD (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403218)]**
 - On the theories behind hard negative sampling for recommendation. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583223)]**
@@ -149,34 +178,89 @@ Ontology
 - Graph convolutional neural networks for web-scale recommender systems. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)]**
 - Collaborative distillation for top-N recommendation. `ICDM (2019)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/8970837/)]**
 - DE-RRD: A knowledge distillation framework for recommender system. `CIKM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412005)]**
+-->
+
+| Index | Venue | Year | Title                                                                                                   |                                 Link                                  |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------: |
+|   1   |  CN   | 1998 | The anatomy of a large-scale hypertextual web search engine.                                            | [PDF](https://www.sciencedirect.com/science/article/pii/S016975529800110X) |
+|   2   | SIGIR | 2013 | Optimizing top-n collaborative filtering via dynamic negative item sampling.                            |       [PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)       |
+|   3   |  KDD  | 2018 | Graph convolutional neural networks for web-scale recommender systems.                                  |       [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219890)       |
+|   4   |  KDD  | 2018 | Leveraging meta-path based context for top-n recommendation with a neural co-attention model.           |       [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219965)       |
+|   5   |  KDD  | 2019 | Dual sequential prediction models linking sequential recommendation and information dissemination.      |       [PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)       |
+|   6   | ICDM  | 2019 | Collaborative distillation for top-N recommendation.                                                    |      [PDF](https://ieeexplore.ieee.org/abstract/document/8970837/)    |
+|   7   |  KDD  | 2020 | Understanding negative sampling in graph representation learning.                                       |       [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403218)       |
+|   8   |  KDD  | 2020 | Fashion recommendation with multi-relational representation learning.                                   |     [PDF](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_1) |
+|   9   | CIKM  | 2020 | DE-RRD: A knowledge distillation framework for recommender system.                                      |       [PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412005)       |
+|  10   |  MM   | 2021 | Learning unified embeddings for recommendation via meta-path semantics.                                 |       [PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475407)       |
+|  11   | CIKM  | 2022 | ITSM-GCN: Informative Training Sample Mining for Graph Convolutional Network-based Collaborative Filtering.|    [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557368)       |
+|  12   |  WWW  | 2023 | On the theories behind hard negative sampling for recommendation.                                       |       [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583223)       |
+|  13   | RecSys| 2023 | Exploring False Hard Negative Sample in Cross-Domain Recommendation.                                    |       [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)       |
+|  14   | AAAI  | 2024 | Plug-in Diffusion Model for Sequential Recommendation.                                                  |         [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28736) |
+|  15   | AAAI  | 2024 | Adaptive hardness negative sampling for collaborative filtering.                                        |         [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28709) |
 
 
 #### User-similarity Dynamic Negative Sampling
-
+<!--
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
 - SamWalker++: recommendation with informative sampling strategy. `TKDE (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9507306/)]**
 - Triplet Losses-based Matrix Factorization for Robust Recommendations. `arXiv (2022)` **[[PDF](https://arxiv.org/abs/2210.12098)]**
 - SamWalker: Social Recommendation with Informative Sampling Strategy. `WWW (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313582)]**
+-->
+
+| Index | Venue | Year | Title                                                                                            | Link                                                      |
+| :---: | :---: | :--: | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   |  WWW  | 2019 | SamWalker: Social Recommendation with Informative Sampling Strategy.                             | [PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313582) |
+|   2   |  KDD  | 2019 | Dual sequential prediction models linking sequential recommendation and information dissemination.| [PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959) |
+|   3   | TKDE  | 2021 | SamWalker++: recommendation with informative sampling strategy.                                  | [PDF](https://ieeexplore.ieee.org/abstract/document/9507306/) |
+|   4   | arXiv | 2022 | Triplet Losses-based Matrix Factorization for Robust Recommendations.                            | [PDF](https://arxiv.org/abs/2210.12098)                   |
 
 
 #### Knowledge-aware Dynamic Negative Sampling
+<!--
 - Geography-aware sequential location recommendation. `KDD (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)]**
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
 - Context-aware image tweet modelling and recommendation. `MM (2016)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2964284.2964291)]**
 - Leveraging review properties for effective recommendation. `WWW (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450038)]**
+-->
+
+| Index | Venue | Year | Title                                                     | Link                                                      |
+| :---: | :---: | :--: | :-------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   |  MM   | 2016 | Context-aware image tweet modelling and recommendation.   | [PDF](https://dl.acm.org/doi/abs/10.1145/2964284.2964291) |
+|   2   |  KDD  | 2020 | Geography-aware sequential location recommendation.       | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252) |
+|   3   |  WWW  | 2021 | Leveraging review properties for effective recommendation.| [PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450038) |
+|   4   |  WWW  | 2023 | Fairly Adaptive Negative Sampling for Recommendations.    | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355) |
+
 
 #### Distribution-based Dynamic Negative Sampling
+<!--
 - A Gain-Tuning Dynamic Negative Sampler for Recommendation. `WWW (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511956)]**
 - Simplify and robustify negative sampling for implicit collaborative filtering. `NIPS (2020)` **[[PDF](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)]**
 - Disentangled Negative Sampling for Collaborative Filtering. `WSDM (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)]**
+-->
+
+| Index | Venue | Year | Title                                                                                   |                                                  Link                                                       |
+| :---: | :---: | :--: | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
+|   1   | NIPS  | 2020 | Simplify and robustify negative sampling for implicit collaborative filtering.          | [PDF](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)|
+|   2   |  WWW  | 2022 | A Gain-Tuning Dynamic Negative Sampler for Recommendation.                              |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511956)                          |
+|   3   | WSDM  | 2023 | Disentangled Negative Sampling for Collaborative Filtering.                             |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)                          |
+
 
 #### Interpolation Dynamic Negative Sampling
+<!--
 - Mixgcf: An improved training method for graph neural network-based recommender systems. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467408)]**
 - Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems. `ARXIV (2022)` **[[PDF](https://arxiv.org/pdf/2211.13912v1)]**
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
+-->
+
+| Index | Venue | Year | Title                                                                                  | Link                                                      |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   | SIGIR | 2013 | Optimizing top-n collaborative filtering via dynamic negative item sampling.           | [PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126) |
+|   2   |  KDD  | 2021 | Mixgcf: An improved training method for graph neural network-based recommender systems.| [PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467408) |
+|   3   | arXiv | 2022 | Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems.               | [PDF](https://arxiv.org/pdf/2211.13912v1)                 |
 
 
 #### Mixed Dynamic Negative Sampling
+<!--
 - On sampling strategies for neural network-based collaborative filtering. `KDD (2017)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3097983.3098202)]**
 - Estimation-action-reflection: Towards deep interaction between conversational and recommender systems. `WSDM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3336191.3371769)]**
 - Recurrent neural networks with top-k gains for session-based recommendations. `CIKM (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271761)]**
@@ -185,11 +269,24 @@ Ontology
 - Mixed negative sampling for learning two-tower neural networks in recommendations. `WWW (2020)` **[[PDF](https://dl.acm.org/doi/10.1145/3366424.3386195)]**
 - Adapting user preference to online feedback in multi-round conversational recommendation. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/10.1145/3437963.3441791)]**
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/10.1145/2484028.2484126)]**
-  
+-->
+
+| Index | Venue | Year | Title                                                                                                   | Link                                                      |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------: |
+|   1   | SIGIR | 2013 | Optimizing top-n collaborative filtering via dynamic negative item sampling.                            | [PDF](https://dl.acm.org/doi/10.1145/2484028.2484126)     |
+|   2   | arXiv | 2015 | Session-based recommendations with recurrent neural networks.                                           | [PDF](https://arxiv.org/abs/1511.06939)                   |
+|   3   |  KDD  | 2017 | On sampling strategies for neural network-based collaborative filtering.                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3097983.3098202) |
+|   4   | CIKM  | 2018 | Recurrent neural networks with top-k gains for session-based recommendations.                           | [PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271761) |
+|   5   | WSDM  | 2020 | Estimation-action-reflection: Towards deep interaction between conversational and recommender systems.  | [PDF](https://dl.acm.org/doi/abs/10.1145/3336191.3371769) |
+|   6   |  KDD  | 2020 | Embedding-based retrieval in facebook search.                                                           | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403305) |
+|   7   |  WWW  | 2020 | Mixed negative sampling for learning two-tower neural networks in recommendations.                      | [PDF](https://dl.acm.org/doi/10.1145/3366424.3386195)     |
+|   8   | WSDM  | 2021 | Adapting user preference to online feedback in multi-round conversational recommendation.               | [PDF](https://dl.acm.org/doi/10.1145/3437963.3441791)     |
+
 
 ### Adversarial Negative Generation
 
 #### Generative Adversarial Negative Generation
+<!--
 - Generative Adversarial Networks. `NIPS (2014)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3422622)]**
 - Neural memory streaming recommender networks with adversarial training. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3220004)]**
 - DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation. `ICDM (2O19)` **[[PDF](https://ieeexplore.ieee.org/document/8970700)]**
@@ -199,16 +296,39 @@ Ontology
 - A peep into the future: Adversarial future encoding in recommendation. `WSDM (2022)` **[[PDF](https://dl.acm.org/doi/10.1145/3488560.3498476)]**
 - ELECRec: Training Sequential Recommenders as Discriminators. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/10.1145/3477495.3531894)]**
 - PURE: Positive-unlabeled recommendation with generative adversarial network. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/10.1145/3447548.3467234)]**
+-->
+
+| Index | Venue | Year | Title                                                                                                        | Link                                                   |
+| :---: | :---: | :--: | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------: |
+|   1   | NIPS  | 2014 | Generative Adversarial Networks.                                                                             | [PDF](https://dl.acm.org/doi/abs/10.1145/3422622)      |
+|   2   |  KDD  | 2018 | Neural memory streaming recommender networks with adversarial training.                                      | [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3220004)|
+|   3   | ICDM  | 2019 | DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation. | [PDF](https://ieeexplore.ieee.org/document/8970700)    |
+|   4   | IJCAI | 2019 | Reinforced Negative Sampling for Recommendation with Exposure Data.                                          | [PDF](https://dl.acm.org/doi/10.5555/3367243.3367349)  |
+|   5   | WSDM  | 2020 | LARA: Attribute-to-feature adversarial learning for new-item recommendation.                                 | [PDF](https://dl.acm.org/doi/abs/10.1145/3336191.3371805)|
+|   6   |  KDD  | 2021 | Adversarial feature translation for multi-domain recommendation.                                             | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467176)  |
+|   7   |  KDD  | 2021 | PURE: Positive-unlabeled recommendation with generative adversarial network.                                 | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467234)  |
+|   8   | WSDM  | 2022 | A peep into the future: Adversarial future encoding in recommendation.                                       | [PDF](https://dl.acm.org/doi/10.1145/3488560.3498476)  |
+|   9   | SIGIR | 2022 | ELECRec: Training Sequential Recommenders as Discriminators.                                                 | [PDF](https://dl.acm.org/doi/10.1145/3477495.3531894)  |
 
 
 #### Sampled Adversarial Negative Generation
+<!--
 - Neural memory streaming recommender networks with adversarial training. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/10.1145/3219819.3220004)]**
 - Adversarial feature translation for multi-domain recommendation. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/10.1145/3447548.3467176)]**
 - Irgan: A minimax game for unifying generative and discriminative information retrieval models. `SIGIR (2017)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3077136.3080786)]**
 - Graphgan: Graph representation learning with generative adversarial nets. `AAAI (2018)` **[[PDF](https://dl.acm.org/doi/10.5555/3504035.3504341)]**
+-->
+
+| Index | Venue | Year | Title                                                                                          | Link                                                      |
+| :---: | :---: | :--: | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   | SIGIR | 2017 | Irgan: A minimax game for unifying generative and discriminative information retrieval models. | [PDF](https://dl.acm.org/doi/abs/10.1145/3077136.3080786) |
+|   2   | AAAI  | 2018 | Graphgan: Graph representation learning with generative adversarial nets.                      | [PDF](https://dl.acm.org/doi/10.5555/3504035.3504341)     |
+|   3   |  KDD  | 2018 | Neural memory streaming recommender networks with adversarial training.                        | [PDF](https://dl.acm.org/doi/10.1145/3219819.3220004)     |
+|   4   |  KDD  | 2021 | Adversarial feature translation for multi-domain recommendation.                               | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467176)     |
   
 
 ### Importance Re-weighting
+<!--
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
 - Transfer learning via contextual invariants for one-to-many cross-domain recommendation. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401078)]**
 - Influence function for unbiased recommendation. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401321)]**
@@ -217,9 +337,22 @@ Ontology
 - Learning explicit user interest boundary for recommendation. `WWW (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511971)]**
 - SamWalker++: recommendation with informative sampling strategy. `TKDE (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9507306)]**
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
+-->
+
+| Index |        Venue         | Year | Title                                                                                    |                                          Link                                          |
+| :---: | :------------------: | :--: | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: |
+|   1   |        SIGIR         | 2020 | Transfer learning via contextual invariants for one-to-many cross-domain recommendation. |               [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401078)                |
+|   2   |        SIGIR         | 2020 | Influence function for unbiased recommendation.                                          |               [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401321)                |
+|   3   | Information Sciences | 2020 | BSPR: Basket-sensitive personalized ranking for product recommendation.                  |        [PDF](https://www.sciencedirect.com/science/article/pii/S0020025520306344)      |
+|   4   |         WSDM         | 2021 | User response models to improve a reinforce recommender system.                          |               [PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)                |
+|   5   |         TKDE         | 2021 | SamWalker++: recommendation with informative sampling strategy.                          |              [PDF](https://ieeexplore.ieee.org/abstract/document/9507306)              |
+|   6   |         WWW          | 2022 | Learning explicit user interest boundary for recommendation.                             |               [PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511971)                |
+|   7   |         WWW          | 2023 | Cross-domain Recommendation with Behavioral Importance Perception.                       |               [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583494)                |
+|   8   |         WWW          | 2023 | Fairly Adaptive Negative Sampling for Recommendations.                                   |               [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)                |
 
 
 #### Attention-based Importance Re-weighting
+<!--
 - Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059)]**
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
 - Modeling User Attention in Music Recommendation. `ICDE (2024)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/10598060/)]**
@@ -231,9 +364,25 @@ Ontology
 - Top-k off-policy correction for a REINFORCE recommender system. `WSDM (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3289600.3290999)]**
 - Geography-aware sequential location recommendation. `KDD (2020)` **[[PDF(https://dl.acm.org/doi/abs/10.1145/3394486.3403252)]]**
 - Sequential recommendation with multiple contrast signals. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3522673)]**
+-->
+
+| Index | Venue | Year | Title                                                                                   | Link                                                      |
+| :---: | :---: | :--: | :-------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   |  KDD  | 2018 | Recommendations with negative feedback via pairwise deep reinforcement learning.          | [PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3219886) |
+|   2   | WSDM  | 2019 | Top-k off-policy correction for a REINFORCE recommender system.                         | [PDF](https://dl.acm.org/doi/abs/10.1145/3289600.3290999) |
+|   3   |  WWW  | 2020 | Personalized ranking with importance sampling.                                          | [PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380187) |
+|   4   |  KDD  | 2020 | Geography-aware sequential location recommendation.                                     | [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252) |
+|   5   | WSDM  | 2021 | User response models to improve a reinforce recommender system.                         | [PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764) |
+|   6   | WSDM  | 2021 | Denoising implicit feedback for recommendation.                                         | [PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441800) |
+|   7   |  WWW  | 2022 | Learning explicit user interest boundary for recommendation.                            | [PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511971) |
+|   8   | SIGIR | 2022 | Self-guided learning to denoise for robust recommendation.                              | [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059) |
+|   9   | TOIS  | 2023 | Sequential recommendation with multiple contrast signals.                                 | [PDF](https://dl.acm.org/doi/abs/10.1145/3522673)         |
+|  10   |  WWW  | 2023 | Cross-domain Recommendation with Behavioral Importance Perception.                      | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583494) |
+|  11   | ICDE  | 2024 | Modeling User Attention in Music Recommendation.                                        | [PDF](https://ieeexplore.ieee.org/abstract/document/10598060/) |
 
 
 #### Knowledge-aware Importance Re-weighting
+<!--
 - Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059)]**
 - Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557229)]**
 - Dgrec: Graph neural network for recommendation with diversified embedding generation. `WSDM (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570472)]**
@@ -242,37 +391,76 @@ Ontology
 - SamWalker: Social Recommendation with Informative Sampling Strategy. `WWW (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313582)]**
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
 - SamWalker++: recommendation with informative sampling strategy. `TKDE (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9507306/)]**
+-->
+
+| Index | Venue | Year | Title                                                                                          | Link                                                      |
+| :---: | :---: | :--: | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   |  WWW  | 2019 | SamWalker: Social Recommendation with Informative Sampling Strategy.                           | [PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313582) |
+|   2   | SIGIR | 2020 | Transfer learning via contextual invariants for one-to-many cross-domain recommendation.       | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401078) |
+|   3   | AAAI  | 2021 | Premere: Meta-reweighting via self-ensembling for point-of-interest recommendation.            | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16539) |
+|   4   | WSDM  | 2021 | User response models to improve a reinforce recommender system.                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764) |
+|   5   | TKDE  | 2021 | SamWalker++: recommendation with informative sampling strategy.                                | [PDF](https://ieeexplore.ieee.org/abstract/document/9507306/) |
+|   6   | SIGIR | 2022 | Self-guided learning to denoise for robust recommendation.                                     | [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059) |
+|   7   | CIKM  | 2022 | Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation.              | [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557229) |
+|   8   | WSDM  | 2023 | Dgrec: Graph neural network for recommendation with diversified embedding generation.          | [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570472) |
 
 
 #### Debiased Importance Re-weighting
+<!--
 - SAR-Net: A scenario-aware ranking network for personalized fair recommendation in hundreds of travel scenarios. `CIKM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481948)]**
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
 - Influence function for unbiased recommendation. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401321)]**
 - Headache to Overstock? Promoting Long-tail Items through Debiased Product Bundling. `arXiv (2024)` **[[PDF](https://arxiv.org/abs/2411.19107)]**
+-->
+
+| Index | Venue | Year | Title                                                                                                        | Link                                                      |
+| :---: | :---: | :--: | :----------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------: |
+|   1   | SIGIR | 2020 | Influence function for unbiased recommendation.                                                              | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401321) |
+|   2   | CIKM  | 2021 | SAR-Net: A scenario-aware ranking network for personalized fair recommendation in hundreds of travel scenarios.| [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481948) |
+|   3   |  WWW  | 2023 | Fairly Adaptive Negative Sampling for Recommendations.                                                       | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355) |
+|   4   | arXiv | 2024 | Headache to Overstock? Promoting Long-tail Items through Debiased Product Bundling.                          | [PDF](https://arxiv.org/abs/2411.19107)                   |
 
 
 ### Knowledge-enhanced Negative Sampling
 
 
 #### General Knowledge-enhanced Negative Sampling
+<!--
 - Calibrated recommendations. `RecSys (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3240323.3240372)]**
 - Mining affective text to improve social media item recommendation. `IPM (2015)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306457314000879)]**
 - Intentgc: a scalable graph convolution framework fusing heterogeneous information for recommendation. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330686)]**
 - Uniform Random Sampling Not Recommended. `WWW (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3184558.3186240)]**
+-->
+
+| Index | Venue | Year | Title                                                                                               | Link                                                            |
+| :---: | :---: | :--: | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------: |
+|   1   |  IPM  | 2015 | Mining affective text to improve social media item recommendation.                                  | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457314000879) |
+|   2   | RecSys| 2018 | Calibrated recommendations.                                                                         | [PDF](https://dl.acm.org/doi/abs/10.1145/3240323.3240372)       |
+|   3   |  WWW  | 2018 | Uniform Random Sampling Not Recommended.                                                            | [PDF](https://dl.acm.org/doi/abs/10.1145/3184558.3186240)       |
+|   4   |  KDD  | 2019 | Intentgc: a scalable graph convolution framework fusing heterogeneous information for recommendation.| [PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330686)       |
 
 
 #### KG-based Knowledge-enhanced Negative Sampling
+<!--
 - Reinforced anchor knowledge graph generation for news recommendation reasoning. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467315)]**
 - Paper recommendation based on heterogeneous network embedding. `KBS (2020)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0950705120305670)]**
 - Reinforced negative sampling over knowledge graph for recommendation. `WWW (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380098)]**
 - Knowledge-enhanced Black-box Attacks for Recommendations. `KDD (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539359)]**
+-->
 
-  
+| Index | Venue | Year | Title                                                                                   | Link                                                                         |
+| :---: | :---: | :--: | :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------: |
+|   1   |  KBS  | 2020 | Paper recommendation based on heterogeneous network embedding.                          | [PDF](https://www.sciencedirect.com/science/article/pii/S0950705120305670)   |
+|   2   |  WWW  | 2020 | Reinforced negative sampling over knowledge graph for recommendation.                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380098)                    |
+|   3   |  KDD  | 2021 | Reinforced anchor knowledge graph generation for news recommendation reasoning.         | [PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467315)                    |
+|   4   |  KDD  | 2022 | Knowledge-enhanced Black-box Attacks for Recommendations.                               | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539359)                    |
+
 
 Scenarios
 ----
 
 ### Negative Sampling in Multiple Practical Recommendation Scenarios
+<!--
 - Causal inference in recommender systems: A survey and future directions. `TOIS (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3639048)]**
 - Bias and debias in recommender system: A survey and future directions. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3564284)]**
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
@@ -280,12 +468,23 @@ Scenarios
 - Reinforced Negative Sampling for Recommendation with Exposure Data. `IJCAI (2019)` **[[PDF](http://fi.ee.tsinghua.edu.cn/public/publications/1bef819c-92c5-11eb-96bc-0242ac120003.pdf)]**
 - Personalized ranking with importance sampling. `WWW (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380187)]**
 - Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)]**
+-->
+
+| Index | Venue | Year | Title                                                                                  |                                                    Link                                                     |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
+|   1   | SIGIR | 2013 | Optimizing top-n collaborative filtering via dynamic negative item sampling.           |                         [PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)                           |
+|   2   | IJCAI | 2019 | Reinforced Negative Sampling for Recommendation with Exposure Data.                    | [PDF](http://fi.ee.tsinghua.edu.cn/public/publications/1bef819c-92c5-11eb-96bc-0242ac120003.pdf)            |
+|   3   |  WWW  | 2020 | Personalized ranking with importance sampling.                                         |                         [PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380187)                           |
+|   4   | TOIS  | 2023 | Bias and debias in recommender system: A survey and future directions.                 |                               [PDF](https://dl.acm.org/doi/abs/10.1145/3564284)                             |
+|   5   |  WWW  | 2023 | On the theories behind hard negative sampling for recommendation.                      |                         [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583223)                           |
+|   6   | RecSys| 2023 | Exploring False Hard Negative Sample in Cross-Domain Recommendation.                   |                         [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)                           |
+|   7   | TOIS  | 2024 | Causal inference in recommender systems: A survey and future directions.               |                               [PDF](https://dl.acm.org/doi/abs/10.1145/3639048)                             |
 
   
 #### Collaborative-guided Recommendation
 
 ![cf](./Images/cf.jpg)
-
+<!--
 - BPR: Bayesian personalized ranking from implicit feedback. `UAI (2009)` **[[PDF](https://arxiv.org/abs/1205.2618)]**
 - Neural collaborative filtering. `WWW (2017)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3038912.3052569)]**
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
@@ -297,12 +496,27 @@ Scenarios
 - A Gain-Tuning Dynamic Negative Sampler for Recommendation. `WWW (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511956)]**
 - Disentangled Negative Sampling for Collaborative Filtering. `WSDM (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)]**
 - Enhanced graph learning for collaborative filtering via mutual information maximization. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)]**
+-->
+
+| Index |  Venue  | Year | Title                                                                                    |                                                  Link                                                       |
+| :---: | :-----: | :--: | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------: |
+|   1   |   UAI   | 2009 | BPR: Bayesian personalized ranking from implicit feedback.                               |                                [PDF](https://arxiv.org/abs/1205.2618)                                       |
+|   2   |  SIGIR  | 2013 | Optimizing top-n collaborative filtering via dynamic negative item sampling.             |                        [PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)                            |
+|   3   |   WWW   | 2017 | Neural collaborative filtering.                                                          |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3038912.3052569)                            |
+|   4   |  TOIS   | 2020 | Efficient neural matrix factorization without sampling for recommendation.               |                            [PDF](https://dl.acm.org/doi/abs/10.1145/3373807)                                |
+|   5   | NeurIPS | 2020 | Simplify and robustify negative sampling for implicit collaborative filtering.           | [PDF](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)        |
+|   6   |  SIGIR  | 2021 | Enhanced graph learning for collaborative filtering via mutual information maximization. |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)                            |
+|   7   |  CIKM   | 2022 | Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation.        |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557229)                            |
+|   8   |   WWW   | 2022 | A Gain-Tuning Dynamic Negative Sampler for Recommendation.                               |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511956)                            |
+|   9   |   WWW   | 2023 | On the theories behind hard negative sampling for recommendation.                        |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583223)                            |
+|  10   |  WSDM   | 2023 | Simplifying Graph-based Collaborative Filtering for Recommendation.                      |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570451)                            |
+|  11   |  WSDM   | 2023 | Disentangled Negative Sampling for Collaborative Filtering.                              |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)                            |
 
 
 #### Sequential Recommendation
 
 ![sr](./Images/sr.jpg)
-
+<!--
 - A case study on sampling strategies for evaluating neural sequential item recommendation models. `RecSys (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3460231.3475943)]**
 - Sequential recommendation with multiple contrast signals. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3522673)]**
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
@@ -311,12 +525,24 @@ Scenarios
 - Multi-behavior hypergraph-enhanced transformer for sequential recommendation. `KDD (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539342)]**
 - Effective and Efficient Training for Sequential Recommendation using Recency Sampling. `RecSys (2024)` **[[PDF](https://dl.acm.org/doi/full/10.1145/3604436)]**
 - Geography-aware sequential location recommendation. `KDD (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)]**
-  
+-->
+
+| Index | Venue  | Year | Title                                                                                                    |                                  Link                                   |
+| :---: | :----: | :--: | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------: |
+|   1   |  KDD   | 2019 | Dual sequential prediction models linking sequential recommendation and information dissemination.       |       [PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)         |
+|   2   |  KDD   | 2020 | Geography-aware sequential location recommendation.                                                      |       [PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)         |
+|   3   | RecSys | 2021 | A case study on sampling strategies for evaluating neural sequential item recommendation models.         |       [PDF](https://dl.acm.org/doi/abs/10.1145/3460231.3475943)         |
+|   4   | SIGIR  | 2022 | ELECRec: Training Sequential Recommenders as Discriminators.                                             |       [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531894)         |
+|   5   |  ICDE  | 2022 | Contrastive learning for sequential recommendation.                                                      |       [PDF](https://ieeexplore.ieee.org/abstract/document/9835621/)     |
+|   6   |  KDD   | 2022 | Multi-behavior hypergraph-enhanced transformer for sequential recommendation.                            |       [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539342)         |
+|   7   |  TOIS  | 2023 | Sequential recommendation with multiple contrast signals.                                                  |          [PDF](https://dl.acm.org/doi/abs/10.1145/3522673)              |
+|   8   | RecSys | 2024 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling.                   |          [PDF](https://dl.acm.org/doi/full/10.1145/3604436)             |
+
 
 ### Multi-modal Recommendation
 
 ![mmr](./Images/mmr.jpg)
-
+<!--
 - Sequential recommendation with multiple contrast signals. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3522673)]**
 - Self-supervised learning for multimedia recommendation. `TMM (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)]**
 - Prompt-based and weak-modality enhanced multimodal recommendation. `Information Fusion (2024)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003056)]**
@@ -325,12 +551,24 @@ Scenarios
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
 - Leveraging review properties for effective recommendation. `WWW (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450038)]**
 - Prompt-based and weak-modality enhanced multimodal recommendation. `Information Fusion (2024)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003056)]**
+-->
+
+| Index |       Venue        | Year | Title                                                                    |                                     Link                                     |
+| :---: | :----------------: | :--: | :----------------------------------------------------------------------- | :--------------------------------------------------------------------------: |
+|   1   |       IJCAI        | 2019 | Personalized multimedia item and key frame recommendation.               |                   [PDF](https://arxiv.org/abs/1906.00246)                    |
+|   2   |        WWW         | 2019 | Multi-task feature learning for knowledge graph enhanced recommendation. |          [PDF](https://dl.acm.org/doi/abs/10.1145/3308558.3313411)           |
+|   3   |        WWW         | 2021 | Leveraging review properties for effective recommendation.               |          [PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3450038)           |
+|   4   |        TMM         | 2022 | Self-supervised learning for multimedia recommendation.                  |        [PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)         |
+|   5   |        TOIS        | 2023 | Sequential recommendation with multiple contrast signals.                |              [PDF](https://dl.acm.org/doi/abs/10.1145/3522673)               |
+|   6   |        WWW         | 2023 | Fairly Adaptive Negative Sampling for Recommendations.                   |          [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)           |
+|   7   | Information Fusion | 2024 | Prompt-based and weak-modality enhanced multimodal recommendation.       | [PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003056)   |
+
 
   
 ### Multi-behavior Recommendation
 
 ![mbr](./Images/mbr.jpg)
-
+<!--
 - Deep feedback network for recommendation. `IJCAI (2021)` **[[PDF](https://www.ijcai.org/Proceedings/2020/0349.pdf)]**
 - Negative can be positive: Signed graph neural networks for recommendation. `IP&M (2023)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306457323001401)]**
 - Interpretable User Retention Modeling in Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608818)]**
@@ -342,10 +580,25 @@ Scenarios
 - DRN: A deep reinforcement learning framework for news recommendation. `WWW (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3178876.3185994)]**
 - Self-supervised Graph Neural Networks for Multi-behavior Recommendation. `IJCAI (2022)` **[[PDF](http://www.shichuan.org/doc/134.pdf)]**
 - Multi-behavior hypergraph-enhanced transformer for sequential recommendation. `KDD (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539342)]**
+-->
+
+| Index | Venue | Year | Title                                                                                                   | Link                                                        |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------: |
+|   1   | CIKM  | 2024 | SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback.                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3627673.3679643)   |
+|   2   | IP&M  | 2023 | Negative can be positive: Signed graph neural networks for recommendation.                              | [PDF](https://www.sciencedirect.com/science/article/pii/S0306457323001401) |
+|   3   | RecSys| 2023 | Interpretable User Retention Modeling in Recommendation.                                                | [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608818)   |
+|   4   | TNNLS | 2022 | Multi-Behavior Graph Neural Networks for Recommender System.                                            | [PDF](https://ieeexplore.ieee.org/abstract/document/9925059/) |
+|   5   | IJCAI | 2022 | Self-supervised Graph Neural Networks for Multi-behavior Recommendation.                                | [PDF](http://www.shichuan.org/doc/134.pdf)                  |
+|   6   |  KDD  | 2022 | Multi-behavior hypergraph-enhanced transformer for sequential recommendation.                           | [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539342)   |
+|   7   | IJCAI | 2021 | Deep feedback network for recommendation.                                                               | [PDF](https://www.ijcai.org/Proceedings/2020/0349.pdf)      |
+|   8   | CIKM  | 2021 | Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce.      | [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481953)   |
+|   9   | ICDM  | 2021 | Hyper meta-path contrastive learning for multi-behavior recommendation.                                 | [PDF](https://ieeexplore.ieee.org/abstract/document/9678992)|
+|  10   | AAAI  | 2018 | Atrank: An attention-based user behavior modeling framework for recommendation.                         | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11618)|
+|  11   |  WWW  | 2018 | DRN: A deep reinforcement learning framework for news recommendation.                                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3178876.3185994)   |
 
   
 ### Cross-domain Recommendation
-
+<!--
 ![cdr](./Images/cdr.jpg)
 - Contrastive Cross-Domain Sequential Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)]**
 - DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation. `MM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548072)]**
@@ -355,9 +608,23 @@ Scenarios
 - Cross domain recommendation via bi-directional transfer graph collaborative filtering networks. `CIKM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)]**
 - Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation. `Information Sciences (2021)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0020025521001432)]**
 - Exploring False Hard Negative Sample in Cross-Domain Recommendation. `RecSys (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)]**
+-->
+
+| Index |        Venue         | Year | Title                                                                                                          | Link                                                                         |
+| :---: | :------------------: | :--: | :------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------: |
+|   1   |         TOIS         | 2024 | Triple sequence learning for cross-domain recommendation.                                                      | [PDF](https://dl.acm.org/doi/abs/10.1145/3638351)                            |
+|   2   |        RecSys        | 2023 | Exploring False Hard Negative Sample in Cross-Domain Recommendation.                                           | [PDF](https://dl.acm.org/doi/abs/10.1145/3604915.3608791)                    |
+|   3   |         CIKM         | 2022 | Contrastive Cross-Domain Sequential Recommendation.                                                            | [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557262)                    |
+|   4   |          MM          | 2022 | DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation.              | [PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548072)                    |
+|   5   | Information Sciences | 2021 | Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation.         | [PDF](https://www.sciencedirect.com/science/article/pii/S0020025521001432)   |
+|   6   |        SIGIR         | 2020 | Transfer learning via contextual invariants for one-to-many cross-domain recommendation.                       | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401078)                    |
+|   7   |        SIGIR         | 2020 | DCDIR: A deep cross-domain recommendation system for cold start users in insurance domain.                     | [PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401193)                    |
+|   8   |         CIKM         | 2020 | Cross domain recommendation via bi-directional transfer graph collaborative filtering networks.                | [PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3412012)                    |
+
   
 
 ### CL-enhanced Recommendation
+<!--
 - Enhanced graph learning for collaborative filtering via mutual information maximization. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)]**
 - Contrastive learning for sequential recommendation. `ICDE (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9835621/)]**
 - Dual contrastive learning for unsupervised image-to-image translation. `CVPR (2021)` **[[PDF](http://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Han_Dual_Contrastive_Learning_for_Unsupervised_Image-to-Image_Translation_CVPRW_2021_paper.html)]**
@@ -378,6 +645,30 @@ Scenarios
 - Self-supervised learning for multimedia recommendation. `TMM (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)]**
 - Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce. `CIKM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481953)]**
 - Hyper meta-path contrastive learning for multi-behavior recommendation. `ICDM (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9678992/)]**
+-->
+
+| Index | Venue | Year | Title                                                                                                   |                                                  Link                                                       |
+| :---: | :---: | :--: | :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------: |
+|   1   | CIKM  | 2020 | S3-rec: Self-supervised learning for sequential recommendation with mutual information maximization.    |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3411954)                          |
+|   2   | SIGIR | 2021 | Enhanced graph learning for collaborative filtering via mutual information maximization.                |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)                          |
+|   3   | CVPR  | 2021 | Dual contrastive learning for unsupervised image-to-image translation.                                  | [PDF](http://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Han_Dual_Contrastive_Learning_for_Unsupervised_Image-to-Image_Translation_CVPRW_2021_paper.html)|
+|   4   | arXiv | 2021 | Self-Guided Contrastive Learning for BERT Sentence Representations.                                     |                                   [PDF](https://arxiv.org/abs/2106.07345)                                   |
+|   5   | SIGIR | 2021 | Causerec: Counterfactual user sequence synthesis for sequential recommendation.                         |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462908)                          |
+|   6   | CIKM  | 2021 | Double-scale self-supervised hypergraph learning for group recommendation.                              |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482426)                          |
+|   7   | SIGIR | 2021 | Self-supervised graph learning for recommendation.                                                      |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462862)                          |
+|   8   |  MM   | 2021 | Contrastive learning for cold-start recommendation.                                                     |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475665)                          |
+|   9   | CIKM  | 2021 | Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce.      |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481953)                          |
+|  10   | ICDM  | 2021 | Hyper meta-path contrastive learning for multi-behavior recommendation.                                 |                        [PDF](https://ieeexplore.ieee.org/abstract/document/9678992/)                        |
+|  11   | ICDE  | 2022 | Contrastive learning for sequential recommendation.                                                     |                       [PDF](https://ieeexplore.ieee.org/abstract/document/9835621/)                         |
+|  12   | AAAI  | 2022 | Simple unsupervised graph representation learning.                                                      |                        [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20748)                        |
+|  13   | SIGIR | 2022 | A review-aware graph contrastive learning framework for recommendation.                                 |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531927)                          |
+|  14   | CIKM  | 2022 | ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation.                         |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557268)                          |
+|  15   | CIKM  | 2022 | Contrastive Learning with Bidirectional Transformers for Sequential Recommendation.                     |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557266)                          |
+|  16   | IJCAI | 2022 | Self-supervised Graph Neural Networks for Multi-behavior Recommendation.                                |                                   [PDF](http://www.shichuan.org/doc/134.pdf)                                |
+|  17   |  KDD  | 2022 | CrossCBR: cross-view contrastive learning for bundle recommendation.                                    |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3534678.3539229)                          |
+|  18   | CIKM  | 2022 | Temporal Contrastive Pre-Training for Sequential Recommendation.                                        |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557468)                          |
+|  19   |  TMM  | 2022 | Self-supervised learning for multimedia recommendation.                                                 |                       [PDF](https://ieeexplore.ieee.org/abstract/document/9811387/)                         |
+|  20   |  KDD  | 2024 | Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning.                   |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671661)                          |
 
 
 
