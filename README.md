@@ -158,7 +158,9 @@ Ontology
 
 
 ### Dynamic Negative Sampling
+<!--
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
+-->
 
 #### Universal Dynamic Negative Samplin
 <!--
