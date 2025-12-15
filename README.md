@@ -4,14 +4,14 @@ We propose a overall ontology of Negative Sampling in Recommendation, which has 
 
 ![toy_example](./Images/toy_example.jpg)
 
-- [Ontology](#Ontology)
+- Ontology
   - [Static Negative Sampling](#static-negative-sampling)
   - [Dynamic Negative Sampling](#hard-negative-sampling)
   - [Adversarial Negative Generation](#adversarial-sampling)
   - [Importance Re-weighting](#graph-based-sampling)
   - [Knowledge-enhanced Negative Sampling](#additional-data-enhanced-sampling)
 
-- [Scenarios](#Scenarios)
+- Scenarios
   - [Collaborative-guided Recommendation](#static-negative-sampling)
   - [Sequential Recommendation](#hard-negative-sampling)
   - [Multi-modal Recommendation](#adversarial-sampling)
@@ -23,8 +23,8 @@ Ontology
 
 ![overview](./Images/overview.jpg)
 ----
-### Static Negative Sampling
-#### Uniform Static Negative Sampling
+# Static Negative Sampling
+## Uniform Static Negative Sampling
 <!--
 - Atrank: An attention-based user behavior modeling framework for recommendation. `AAAI (2018)` **[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/11618)]**
 - ReCODE: Modeling Repeat Consumption with Neural ODE. `SIGIR (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3626772.3657936)]**
@@ -77,7 +77,7 @@ Ontology
 
 
 
-#### Predefined Static Negative Sampling
+## Predefined Static Negative Sampling
 <!--
 - Efficient latent link recommendation in signed networks. `KDD (2015)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2783258.2783358)]**
 - Adaptive implicit friends identification over heterogeneous network for social recommendation. `CIKM (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3269206.3271725)]**
@@ -109,7 +109,7 @@ Ontology
 
 
 
-#### Popularity-based Static Negative Sampling
+## Popularity-based Static Negative Sampling
 <!--
 - Personalized ranking for non-uniformly sampled items. `KDD Cup/PLMR - check (2012)` **[[PDF](http://proceedings.mlr.press/v18/gantner12a.html)]**
 - Learning recommender systems with implicit feedback via soft target enhancement. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462863)]**
@@ -139,7 +139,7 @@ Ontology
 |  11   |  TKDE   | 2023 | Hyperbolic graph learning for social recommendation.                                                     |                        [PDF](https://ieeexplore.ieee.org/abstract/document/10361607/)                       |
 
 
-#### Non-sampling Static Negative Sampling
+## Non-sampling Static Negative Sampling
 <!--
 - Efficient heterogeneous collaborative filtering without negative sampling for recommendation. `AAAI (2020)` **[[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5329)]**
 - Efficient neural matrix factorization without sampling for recommendation. `TOIS (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3373807)]**
@@ -157,12 +157,12 @@ Ontology
 |   5   |  WWW  | 2021 | Efficient non-sampling knowledge graph embedding.                                           |   [PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)       |
 
 
-### Dynamic Negative Sampling
+# Dynamic Negative Sampling
 <!--
 - Optimizing top-n collaborative filtering via dynamic negative item sampling. `SIGIR (2013)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/2484028.2484126)]**
 -->
 
-#### Universal Dynamic Negative Samplin
+## Universal Dynamic Negative Samplin
 <!--
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
 - Understanding negative sampling in graph representation learning. `KDD (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403218)]**
@@ -201,7 +201,7 @@ Ontology
 |  15   | AAAI  | 2024 | Adaptive hardness negative sampling for collaborative filtering.                                        |         [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28709) |
 
 
-#### User-similarity Dynamic Negative Sampling
+## User-similarity Dynamic Negative Sampling
 <!--
 - Dual sequential prediction models linking sequential recommendation and information dissemination. `KDD (2019)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330959)]**
 - SamWalker++: recommendation with informative sampling strategy. `TKDE (2021)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9507306/)]**
@@ -217,7 +217,7 @@ Ontology
 |   4   | arXiv | 2022 | Triplet Losses-based Matrix Factorization for Robust Recommendations.                            | [PDF](https://arxiv.org/abs/2210.12098)                   |
 
 
-#### Knowledge-aware Dynamic Negative Sampling
+## Knowledge-aware Dynamic Negative Sampling
 <!--
 - Geography-aware sequential location recommendation. `KDD (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3394486.3403252)]**
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
@@ -233,7 +233,7 @@ Ontology
 |   4   |  WWW  | 2023 | Fairly Adaptive Negative Sampling for Recommendations.    | [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355) |
 
 
-#### Distribution-based Dynamic Negative Sampling
+## Distribution-based Dynamic Negative Sampling
 <!--
 - A Gain-Tuning Dynamic Negative Sampler for Recommendation. `WWW (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3485447.3511956)]**
 - Simplify and robustify negative sampling for implicit collaborative filtering. `NIPS (2020)` **[[PDF](https://proceedings.neurips.cc/paper/2020/hash/0c7119e3a6a2209da6a5b90e5b5b75bd-Abstract.html)]**
@@ -247,7 +247,7 @@ Ontology
 |   3   | WSDM  | 2023 | Disentangled Negative Sampling for Collaborative Filtering.                             |                          [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)                          |
 
 
-#### Interpolation Dynamic Negative Sampling
+## Interpolation Dynamic Negative Sampling
 <!--
 - Mixgcf: An improved training method for graph neural network-based recommender systems. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467408)]**
 - Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems. `ARXIV (2022)` **[[PDF](https://arxiv.org/pdf/2211.13912v1)]**
@@ -261,7 +261,7 @@ Ontology
 |   3   | arXiv | 2022 | Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems.               | [PDF](https://arxiv.org/pdf/2211.13912v1)                 |
 
 
-#### Mixed Dynamic Negative Sampling
+## Mixed Dynamic Negative Sampling
 <!--
 - On sampling strategies for neural network-based collaborative filtering. `KDD (2017)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3097983.3098202)]**
 - Estimation-action-reflection: Towards deep interaction between conversational and recommender systems. `WSDM (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3336191.3371769)]**
@@ -285,9 +285,9 @@ Ontology
 |   8   | WSDM  | 2021 | Adapting user preference to online feedback in multi-round conversational recommendation.               | [PDF](https://dl.acm.org/doi/10.1145/3437963.3441791)     |
 
 
-### Adversarial Negative Generation
+# Adversarial Negative Generation
 
-#### Generative Adversarial Negative Generation
+## Generative Adversarial Negative Generation
 <!--
 - Generative Adversarial Networks. `NIPS (2014)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3422622)]**
 - Neural memory streaming recommender networks with adversarial training. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3219819.3220004)]**
@@ -313,7 +313,7 @@ Ontology
 |   9   | SIGIR | 2022 | ELECRec: Training Sequential Recommenders as Discriminators.                                                 | [PDF](https://dl.acm.org/doi/10.1145/3477495.3531894)  |
 
 
-#### Sampled Adversarial Negative Generation
+## Sampled Adversarial Negative Generation
 <!--
 - Neural memory streaming recommender networks with adversarial training. `KDD (2018)` **[[PDF](https://dl.acm.org/doi/10.1145/3219819.3220004)]**
 - Adversarial feature translation for multi-domain recommendation. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/10.1145/3447548.3467176)]**
@@ -329,7 +329,7 @@ Ontology
 |   4   |  KDD  | 2021 | Adversarial feature translation for multi-domain recommendation.                               | [PDF](https://dl.acm.org/doi/10.1145/3447548.3467176)     |
   
 
-### Importance Re-weighting
+# Importance Re-weighting
 <!--
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
 - Transfer learning via contextual invariants for one-to-many cross-domain recommendation. `SIGIR (2020)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401078)]**
@@ -353,7 +353,7 @@ Ontology
 |   8   |         WWW          | 2023 | Fairly Adaptive Negative Sampling for Recommendations.                                   |               [PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)                |
 
 
-#### Attention-based Importance Re-weighting
+## Attention-based Importance Re-weighting
 <!--
 - Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059)]**
 - User response models to improve a reinforce recommender system. `WSDM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3437963.3441764)]**
@@ -383,7 +383,7 @@ Ontology
 |  11   | ICDE  | 2024 | Modeling User Attention in Music Recommendation.                                        | [PDF](https://ieeexplore.ieee.org/abstract/document/10598060/) |
 
 
-#### Knowledge-aware Importance Re-weighting
+## Knowledge-aware Importance Re-weighting
 <!--
 - Self-guided learning to denoise for robust recommendation. `SIGIR (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532059)]**
 - Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation. `CIKM (2022)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3511808.3557229)]**
@@ -407,7 +407,7 @@ Ontology
 |   8   | WSDM  | 2023 | Dgrec: Graph neural network for recommendation with diversified embedding generation.          | [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570472) |
 
 
-#### Debiased Importance Re-weighting
+## Debiased Importance Re-weighting
 <!--
 - SAR-Net: A scenario-aware ranking network for personalized fair recommendation in hundreds of travel scenarios. `CIKM (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3481948)]**
 - Fairly Adaptive Negative Sampling for Recommendations. `WWW (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583355)]**
@@ -423,10 +423,10 @@ Ontology
 |   4   | arXiv | 2024 | Headache to Overstock? Promoting Long-tail Items through Debiased Product Bundling.                          | [PDF](https://arxiv.org/abs/2411.19107)                   |
 
 
-### Knowledge-enhanced Negative Sampling
+# Knowledge-enhanced Negative Sampling
 
 
-#### General Knowledge-enhanced Negative Sampling
+## General Knowledge-enhanced Negative Sampling
 <!--
 - Calibrated recommendations. `RecSys (2018)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3240323.3240372)]**
 - Mining affective text to improve social media item recommendation. `IPM (2015)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0306457314000879)]**
@@ -442,7 +442,7 @@ Ontology
 |   4   |  KDD  | 2019 | Intentgc: a scalable graph convolution framework fusing heterogeneous information for recommendation.| [PDF](https://dl.acm.org/doi/abs/10.1145/3292500.3330686)       |
 
 
-#### KG-based Knowledge-enhanced Negative Sampling
+## KG-based Knowledge-enhanced Negative Sampling
 <!--
 - Reinforced anchor knowledge graph generation for news recommendation reasoning. `KDD (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3447548.3467315)]**
 - Paper recommendation based on heterogeneous network embedding. `KBS (2020)` **[[PDF](https://www.sciencedirect.com/science/article/pii/S0950705120305670)]**
@@ -460,8 +460,6 @@ Ontology
 
 Scenarios
 ----
-
-### Negative Sampling in Multiple Practical Recommendation Scenarios
 <!--
 - Causal inference in recommender systems: A survey and future directions. `TOIS (2024)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3639048)]**
 - Bias and debias in recommender system: A survey and future directions. `TOIS (2023)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3564284)]**
@@ -482,7 +480,7 @@ Scenarios
 |   7   | TOIS  | 2024 | Causal inference in recommender systems: A survey and future directions.               |                               [PDF](https://dl.acm.org/doi/abs/10.1145/3639048)                             |
 -->
   
-#### Collaborative-guided Recommendation
+## Collaborative-guided Recommendation
 
 ![cf](./Images/cf.jpg)
 <!--
@@ -514,7 +512,7 @@ Scenarios
 |  11   |  WSDM   | 2023 | Disentangled Negative Sampling for Collaborative Filtering.                              |                        [PDF](https://dl.acm.org/doi/abs/10.1145/3539597.3570419)                            |
 
 
-#### Sequential Recommendation
+## Sequential Recommendation
 
 ![sr](./Images/sr.jpg)
 <!--
@@ -540,7 +538,7 @@ Scenarios
 |   8   | RecSys | 2024 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling.                   |          [PDF](https://dl.acm.org/doi/full/10.1145/3604436)             |
 
 
-### Multi-modal Recommendation
+## Multi-modal Recommendation
 
 ![mmr](./Images/mmr.jpg)
 <!--
@@ -566,7 +564,7 @@ Scenarios
 
 
   
-### Multi-behavior Recommendation
+## Multi-behavior Recommendation
 
 ![mbr](./Images/mbr.jpg)
 <!--
@@ -598,7 +596,7 @@ Scenarios
 |  11   |  WWW  | 2018 | DRN: A deep reinforcement learning framework for news recommendation.                                   | [PDF](https://dl.acm.org/doi/abs/10.1145/3178876.3185994)   |
 
   
-### Cross-domain Recommendation
+## Cross-domain Recommendation
 
 ![cdr](./Images/cdr.jpg)
 <!--
@@ -626,7 +624,7 @@ Scenarios
 
   
 
-### CL-enhanced Recommendation
+## CL-enhanced Recommendation
 <!--
 - Enhanced graph learning for collaborative filtering via mutual information maximization. `SIGIR (2021)` **[[PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)]**
 - Contrastive learning for sequential recommendation. `ICDE (2022)` **[[PDF](https://ieeexplore.ieee.org/abstract/document/9835621/)]**
@@ -675,7 +673,7 @@ Scenarios
 
 
 
-## BibTeX
+# BibTeX
 If you find this work useful for your research, please kindly cite NS4RS by:
 ```
 @misc{NS4RS,
